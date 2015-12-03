@@ -1355,7 +1355,7 @@
   <spnOverride numeric="45004"  spn="KT" />
   <spnOverride numeric="45008"  spn="KTF" />
   <spnOverride numeric="45002"  spn="KTF CDMA" />
-  <spnOverride numeric="45006"  spn="LGU+" />
+  <spnOverride numeric="45006" spn="LG U+"/>
   <spnOverride numeric="45003"  spn="Power 017" />
   <spnOverride numeric="45005"  spn="SK Telecom" />
   <!-- Spain -->
